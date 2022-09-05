@@ -1,0 +1,10 @@
+{
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "urlRandomness": "8w-ef3",
+  "https": false,
+  "scheme": "exp+homechef-app",
+  "devClient": false
+}
