@@ -2,7 +2,7 @@ Homechef
 
 Pre requisties : you need to have node and expo framework installed in the computer
 
-Version that is used to developed this application Node version : v18.6.0 Expo Version : 4.9.1
+Version that is used to developed this application Node version : v18.6.0 Expo SDK Version : 46.0.8
 
 Please clone the repository
 
